@@ -1,0 +1,12 @@
+nav ul li{
+    display: inline;
+    width:400px;
+}
+a{
+    text-decoration: none;
+    color: #fffcf3;
+    padding:30px;
+}
+a:hover{
+    color: #ffd971;
+}
